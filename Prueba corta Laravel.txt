@@ -1,0 +1,43 @@
+<?php
+
+// Prueba para Desarrollador Laravel - Aplicación de Venta con Facturación
+
+// Descripcion:
+// Crea una aplicación de ventas simple que permita gestionar usuarios con roles, productos y facturas. La prueba debe incluir:
+// - Registro de ventas de productos y generación de facturas.
+// - Asignación de roles (cliente y vendedor) a los usuarios.
+// - Relacionamiento de modelos y consultas a través de Eloquent.
+
+// Requisitos:
+// 1. Modelos y Relaciones:
+// - User: name, email (unique), password.
+// - Role: name (cliente, vendedor).
+// - Product: name, description, price.
+// - Invoice: user_id (cliente), seller_id (vendedor), total, created_at.
+// - Invoice_Product (Tabla pivote): invoice_id, product_id, quantity.
+// - Relaciona User con Role (uno a muchos).
+// - User puede tener muchas Invoices (como cliente o vendedor).
+// - Invoice tiene muchos Products (relación muchos a muchos).
+
+// 2. Escenarios a Implementar:
+// - Escenario 1: Un vendedor registra la venta de uno o varios productos a un cliente y genera una factura.
+// - Escenario 2: Listar todas las facturas de un cliente con los productos adquiridos.
+// - Escenario 3: Listar facturas de ventas realizadas por un vendedor.
+
+// 3. Controladores y Rutas:
+// - Controladores para User, Product e Invoice.
+// - Rutas para gestionar el CRUD de productos y facturas.
+// - Rutas para asignar roles y listar ventas.
+
+// 4. Validaciones y Seguridad:
+// - Validaciones en la creación de usuarios, productos y facturas.
+// - Asegura que solo los usuarios con rol de vendedor puedan registrar ventas.
+
+// Entrega:
+// - Proyecto en un repositorio privado de GitHub.
+// - Instrucciones de configuración (archivo README.md).
+// - Archivo SQL para poblar con datos de prueba.
+
+// Instrucciones de prueba:
+// - Implementa el proyecto desde cero.
+// - Aplica mejoras que consideres necesarias.

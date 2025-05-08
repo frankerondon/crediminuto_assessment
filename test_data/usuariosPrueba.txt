@@ -1,0 +1,35 @@
+# Usuarios de Prueba
+
+## Vendedores
+
+1. Nombre: Juan Pérez
+   Email: juan.perez@empresa.com
+   Password: 12345
+   Rol: Vendedor
+
+2. Nombre: María García
+   Email: maria.garcia@empresa.com
+   Password: 12345
+   Rol: Vendedor
+
+## Clientes
+
+1. Nombre: Carlos López
+   Email: carlos.lopez@mail.com
+   Password: 12345
+   Rol: Cliente
+
+2. Nombre: Ana Martínez
+   Email: ana.martinez@mail.com
+   Password: 12345
+   Rol: Cliente
+
+3. Nombre: Pedro Ramírez
+   Email: pedro.ramirez@mail.com
+   Password: 12345
+   Rol: Cliente
+
+4. Nombre: Laura Torres
+   Email: laura.torres@mail.com
+   Password: 12345
+   Rol: Cliente

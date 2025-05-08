@@ -1,0 +1,26 @@
+# Productos de Prueba
+
+## Producto 1
+Nombre: Laptop HP 15"
+Descripción: Laptop HP con procesador Intel Core i5, 8GB RAM, 256GB SSD
+Precio: 799.99
+
+## Producto 2
+Nombre: Monitor Dell 24"
+Descripción: Monitor LED Full HD 1080p, 60Hz, HDMI
+Precio: 199.99
+
+## Producto 3
+Nombre: Teclado Mecánico RGB
+Descripción: Teclado gaming con switches Cherry MX, retroiluminación RGB
+Precio: 89.99
+
+## Producto 4
+Nombre: Mouse Inalámbrico
+Descripción: Mouse ergonómico con 6 botones programables, batería recargable
+Precio: 29.99
+
+## Producto 5
+Nombre: Impresora Multifuncional
+Descripción: Impresora láser con escáner y copiadora integrados
+Precio: 299.99
