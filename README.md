@@ -127,18 +127,3 @@ Estos datos pueden ser utilizados para:
 - Referencia para crear seeders
 - Testing de funcionalidades
 
-
-
-## Licencia
-
-Distribuido bajo la Licencia MIT. Ver `LICENSE` para más información.
-
-## Autor
-
-Tu Nombre - [@frankerondon](https://github.com/frankerondon)
-
-## Agradecimientos
-
-- Laravel Framework
-- Bootstrap
-- SQLite
