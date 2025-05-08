@@ -22,8 +22,8 @@ Sistema de facturación desarrollado con Laravel que permite gestionar productos
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/your-username/sistema-facturacion.git
-cd sistema-facturacion
+git clone https://github.com/frankerondon/crediminuto_assessment.git
+cd crediminuto_assessment
 ```
 
 2. Instalar dependencias:
